@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nicole
+### Hi there 👋, my name is Nicole.
 #### I am a Data Scientist and a researcher.
 
 ![I am a Data Scientist and a researcher](https://github.com/nicolewang12/nicolewang12/blob/main/Screen%20Shot%202021-08-16%20at%202.08.02%20PM.png)
