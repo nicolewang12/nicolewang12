@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Nicole
-#### I am a Data Scientist and a researcher
+#### I am a Data Scientist and a researcher.
+
 ![I am a Data Scientist and a researcher](https://github.com/nicolewang12/nicolewang12/blob/main/Screen%20Shot%202021-08-16%20at%202.08.02%20PM.png)
 
 I am the associate director of data science and research at the Wharton School of Business, the University of Pennsylvania. I have over 10 years of research experience in data analytics across different fields. I have a dual-Ph.D. from the Pennsylvania State University and a Master's Degree from the University of Pennsylvania. 
